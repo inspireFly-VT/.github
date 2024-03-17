@@ -1,5 +1,7 @@
 ## InspireFly is a student run space organization at Virginia Tech in Blacksburg, Virginia USA.
 
+We are currently working to build and launch a 1U research cubesat.
+
 <!--
 
 **Here are some ideas to get you started:**
