@@ -2,6 +2,9 @@
 
 We are currently working to build and launch a 1U research cubesat.
 
+Our electronics hardware development can be viewed here:
+https://cadlab.io/inspirefly-vt
+
 <!--
 
 **Here are some ideas to get you started:**
