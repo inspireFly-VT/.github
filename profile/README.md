@@ -1,4 +1,4 @@
-## inspireFly @ Virginia Tech
+## InspireFly is a student run space organization at Virginia Tech in Blacksburg, Virginia USA.
 
 <!--
 
