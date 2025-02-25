@@ -5,13 +5,4 @@ We are currently working to build and launch a 1U research cubesat.
 Our electronics hardware development can be viewed here:
 https://cadlab.io/inspirefly-vt
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<h6>InspireFly is an undergraduate CubeSat engineering design team at Virginia Tech. InspireFly is a registered Virginia Tech student organization, and while supported by the university, is not an official division of Virginia Polytechnic Institute and State University. InspireFly receives support from the Virginia Tech Kevin T. Crofton Department of Aerospace and Ocean Engineering (including the Aerospace Engineering Design Lab), the Virginia Tech National Security Institute, the Virginia Tech Center for Space Science and Engineering Research, the Virginia Tech Bradley Department of Electrical and Computer Engineering (through the AMP Lab), and the Student Engineers' Council at Virginia Tech.<h6>
