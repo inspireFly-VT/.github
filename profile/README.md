@@ -1,6 +1,6 @@
-## inspireFly is an undergraduate space organization at Virginia Tech in Blacksburg, Virginia, USA.
+## inspireFly is an undergraduate satellite design team at Virginia Tech in Blacksburg, Virginia, USA.
 
-We are currently working to build and launch a 1U research cubesat.
+We finished development of ContentCube, a 1U research cubesat which is set to launch on NG22
 
 Our electronics hardware development can be viewed here:
 https://cadlab.io/inspirefly-vt
