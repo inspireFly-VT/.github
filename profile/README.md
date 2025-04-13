@@ -5,4 +5,8 @@ We finished development of ContentCube, a 1U research cubesat which is set to la
 Our electronics hardware development can be viewed here:
 https://cadlab.io/inspirefly-vt
 
+The final software for ContentCube can be seen in the Final_Software folder
+The Final_FCB_Software is the code for the flight controller board which controls communications
+The Final_PCB_Software is the code for the payload board which controls the camera and display screen
+
 <h6>InspireFly is an undergraduate CubeSat engineering design team at Virginia Tech. InspireFly is a registered Virginia Tech student organization, and while supported by the university, is not an official division of Virginia Polytechnic Institute and State University. InspireFly receives support from the Virginia Tech Kevin T. Crofton Department of Aerospace and Ocean Engineering (including the Aerospace Engineering Design Lab), the Virginia Tech National Security Institute, the Virginia Tech Center for Space Science and Engineering Research, the Virginia Tech Bradley Department of Electrical and Computer Engineering (through the AMP Lab), and the Student Engineers' Council at Virginia Tech.<h6>
